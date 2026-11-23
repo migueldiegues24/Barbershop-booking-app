@@ -1,4 +1,4 @@
-# Barbershop Booking App — Product Concept
+# Barbershop Booking App - Product Concept
 
 Design concept for a booking and payments app for a barbershop with several barbers. One app serves both sides: clients book and pay, barbers manage their schedule, clients and earnings.
 
