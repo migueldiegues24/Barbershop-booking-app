@@ -46,4 +46,4 @@ Design concept. The mockup shows the main screens and flows; the app itself has 
 
 ## Author
 
-Miguel Diegues — [LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/migueldiegues24)
+Miguel Diegues
